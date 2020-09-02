@@ -1,0 +1,22 @@
+{
+  "name": "complib",
+  "version": "1.0.0",
+  "description": "custom lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatsbyzz/vueCompLib.git"
+  },
+  "keywords": [
+    "gatsbyzz"
+  ],
+  "author": "gatsbyzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gatsbyzz/vueCompLib/issues"
+  },
+  "homepage": "https://github.com/gatsbyzz/vueCompLib#readme"
+}
